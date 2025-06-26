@@ -1,7 +1,7 @@
 title: Happy Paws Dog Grooming
 description: Professional and caring dog grooming services.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://yourusername.github.io" # replace with your GitHub username
+baseurl: "/testing_pages" # the subpath of your site, e.g. /blog
+url: "https://mlwyatt.github.io" # replace with your GitHub username
 theme: minima
 author:
   name: Your Name
