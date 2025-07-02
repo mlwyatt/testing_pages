@@ -1,3 +1,7 @@
 .hero-foot {
   display: none;
 }
+
+.logo-image {
+  max-height: 100px;
+}
